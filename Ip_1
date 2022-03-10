@@ -149,7 +149,7 @@ http://mudy02.cularu.com:8880/SDY14M3N071/14M3N0711/31056
 http://mudy02.cularu.com:8880/SDY14M3N071/14M3N0711/31045
 #EXTINF:-1 tvg-id="" tvg-name="DK095:TV2 SPORT HD" tvg-logo="" group-title="Denmark",DK095:TV2 SPORT HD
 http://mudy02.cularu.com:8880/SDY14M3N071/14M3N0711/31036
-#EXTINF:-1 tvg-id="" tvg-name="DK103:TV2 HD" tvg-logo="" group-title="Denmark",DK103:TV2 HD
+#EXTINF:-1 tvg-id="" tvg-name="DK103:TV2 HD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/e25b8b12b98f2ca5ce50fa07efbdfe380083dc00/countries/nordic/denmark/tv2-news-dk.png" group-title="Denmark",DK103:TV2 HD
 http://mudy02.cularu.com:8880/SDY14M3N071/14M3N0711/31028
 #EXTINF:-1 tvg-id="" tvg-name="DK097:TV3 Danmark" tvg-logo="" group-title="Denmark",DK097:TV3 Danmark
 http://mudy02.cularu.com:8880/SDY14M3N071/14M3N0711/31034
